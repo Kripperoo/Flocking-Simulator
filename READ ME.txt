@@ -1,0 +1,21 @@
+                                                  READ ME
+
+Source file need to compile: 
+Bird.java                           
+CartesianCoordinate.java                          
+DynamicBirds.java                       
+Flock.java                       
+LineSegment.java                        
+Simulator.java                          
+Velocity.java                          
+
+Entry point used to run final Program: 
+
+Simulator.java
+
+Demo:              
+
+Enter file:  Y3834501           
+
+javac *.java           
+java Simulator
