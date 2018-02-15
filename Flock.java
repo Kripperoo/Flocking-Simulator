@@ -157,3 +157,4 @@ public Velocity separation(ArrayList<Flock> Birds)
             return Velocity;
         }
     }
+}
